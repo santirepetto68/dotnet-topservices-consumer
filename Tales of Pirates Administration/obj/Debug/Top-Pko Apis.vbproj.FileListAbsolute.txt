@@ -1,0 +1,18 @@
+C:\Users\santi\Dropbox\Yo\Top\DotNet\Tales of Pirates Administration\Tales of Pirates Administration\bin\Debug\Newtonsoft.Json.dll
+C:\Users\santi\Dropbox\Yo\Top\DotNet\Tales of Pirates Administration\Tales of Pirates Administration\bin\Debug\Newtonsoft.Json.xml
+C:\Users\santi\Dropbox\Yo\Top\DotNet\Tales of Pirates Administration\Tales of Pirates Administration\obj\Debug\Tales_of_Pirates_Administration.Login.resources
+C:\Users\santi\Dropbox\Yo\Top\DotNet\Tales of Pirates Administration\Tales of Pirates Administration\obj\Debug\Tales_of_Pirates_Administration.Resources.resources
+C:\Users\santi\Dropbox\Yo\Top\DotNet\Tales of Pirates Administration\Tales of Pirates Administration\obj\Debug\Tales_of_Pirates_Administration.Panel.resources
+C:\Users\santi\Dropbox\Yo\Top\DotNet\Tales of Pirates Administration\Tales of Pirates Administration\obj\Debug\Tales_of_Pirates_Administration.Register.resources
+C:\Users\santi\Dropbox\Yo\Top\DotNet\Tales of Pirates Administration\Tales of Pirates Administration\obj\Debug\Tales_of_Pirates_Administration.Stall.resources
+C:\Users\santi\Dropbox\Yo\Top\DotNet\Tales of Pirates Administration\Tales of Pirates Administration\obj\Debug\Top-Pko Apis.vbproj.GenerateResource.Cache
+C:\Users\santi\Dropbox\Yo\Top\DotNet\Tales of Pirates Administration\Tales of Pirates Administration\obj\Debug\Top-Pko Apis.vbproj.CoreCompileInputs.cache
+C:\Users\santi\Dropbox\Yo\Top\DotNet\Tales of Pirates Administration\Tales of Pirates Administration\bin\Debug\Top-Pko Apis.exe.config
+C:\Users\santi\Dropbox\Yo\Top\DotNet\Tales of Pirates Administration\Tales of Pirates Administration\bin\Debug\Top-Pko Apis.exe
+C:\Users\santi\Dropbox\Yo\Top\DotNet\Tales of Pirates Administration\Tales of Pirates Administration\bin\Debug\Top-Pko Apis.pdb
+C:\Users\santi\Dropbox\Yo\Top\DotNet\Tales of Pirates Administration\Tales of Pirates Administration\bin\Debug\Top-Pko Apis.xml
+C:\Users\santi\Dropbox\Yo\Top\DotNet\Tales of Pirates Administration\Tales of Pirates Administration\obj\Debug\Top-Pko Apis.exe
+C:\Users\santi\Dropbox\Yo\Top\DotNet\Tales of Pirates Administration\Tales of Pirates Administration\obj\Debug\Top-Pko Apis.xml
+C:\Users\santi\Dropbox\Yo\Top\DotNet\Tales of Pirates Administration\Tales of Pirates Administration\obj\Debug\Top-Pko Apis.pdb
+C:\Users\santi\Dropbox\Yo\Top\DotNet\Tales of Pirates Administration\Tales of Pirates Administration\obj\Debug\Top-Pko Apis.vbprojAssemblyReference.cache
+C:\Users\santi\Dropbox\Yo\Top\DotNet\Tales of Pirates Administration\Tales of Pirates Administration\obj\Debug\Top-Pko Apis.vbproj.CopyComplete
