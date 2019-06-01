@@ -78,7 +78,7 @@ Partial Class Login
         Me.TextBox2.PasswordChar = Global.Microsoft.VisualBasic.ChrW(42)
         Me.TextBox2.Size = New System.Drawing.Size(110, 26)
         Me.TextBox2.TabIndex = 4
-        Me.TextBox2.Text = "369258sa"
+        Me.TextBox2.Text = ""
         '
         'Button1
         '
